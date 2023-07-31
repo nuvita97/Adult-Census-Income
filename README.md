@@ -33,7 +33,7 @@ This project aims to answer these questions:
 
 For the code, please check the notebook `personal_income.ipynb`.
 
-The findings of this project has been published [here](https://medium.com/@d.huy723/clustering-helps-to-improve-price-prediction-in-online-booking-systems-3aab0e2dc83b).
+The findings of this project has been published [HERE](https://medium.com/@vietthai2303/unraveling-the-income-question-insights-from-american-census-analysis-872ae24d321d).
 
 ### Acknowledgements <a name="acknowledgements"></a>
 
